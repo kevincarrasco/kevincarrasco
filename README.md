@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kevincarrasco
-- 👀 I’m interested in artificial intelligence and data science here you can find some of my projects.
-- 🌱 I’m currently working on NLP projects 
+- BS in Mechatronic engineering.
+- MS in Advanced Technology.
+- 👀 Subjects of interest: Artificial Intelligence, Data Science, Robotics, Soft Robotics and Mechatronics  here you can find some of my projects.
+- 🌱 I’m currently working on NLP projects. 
 - 💞️ I’m looking to collaborate on artificial intelligence teams.
 - 📫 How to reach me kevin.c.salazar1@gmail.com Linkedin: www.linkedin.com/in/kevcarrasco
 
